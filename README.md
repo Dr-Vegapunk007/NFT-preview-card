@@ -4,8 +4,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-challenge-0EO3k-ViT6)
+- Live Site URL: [live site](https://dr-vegapunk007.github.io/NFT-preview-card/)
 
 ## Author
 
